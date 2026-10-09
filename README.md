@@ -1,8 +1,6 @@
 # 5v-power-supply
 12 V to 5 V regulated power supply designed in LTspice and KiCad, including schematic, PCB layout, simulation, and documentation.
 
-# 12 V to 5 V Regulated Power Supply
-
 ## Overview
 
 A linear regulated power supply designed to convert a 12 V DC input into a 5 V DC output. The project uses LTspice for circuit simulation and KiCad for schematic capture and PCB layout.
